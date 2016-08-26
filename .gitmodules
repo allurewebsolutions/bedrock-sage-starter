@@ -1,0 +1,4 @@
+[submodule "bedrock-starter"]
+	path = bedrock-starter
+	url = git@github.com:allurewebsolutions/bedrock-starter.git
+	branch = master
