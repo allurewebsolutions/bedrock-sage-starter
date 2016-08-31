@@ -9,6 +9,6 @@ git checkout master
 bower install
 npm install
 gulp build
-rm -rf .git .gitignore ./.gitmodules
+rm -rf .git .gitignore .gitmodules
 mv bedrock-starter/{.,}* .
-rm -rf bedrock-starter/ ./build.sh
+rm -rf bedrock-starter/ build.sh
