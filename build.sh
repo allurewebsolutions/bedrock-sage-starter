@@ -2,7 +2,7 @@
 git submodule update --init
 cd bedrock-starter/
 git checkout master
-composer install
+composer update
 git submodule update --init
 cd web/app/themes/sage-starter/
 git checkout master
