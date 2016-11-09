@@ -1,5 +1,5 @@
 ## Setup Instructions
-- Clone the repo: `git clone git@gitlab.com:allure-web-solutions/bedrock-sage-starter.git`
+- Clone the repo: `git clone git@github.com:allurewebsolutions/bedrock-sage-starter.git`
 - Run the build.sh file inside the repo: `./build.sh`
 - Copy the /bedrock-starter/.env.example to /bedrock-starter/.env - open the file and fill in the info for your DB
 - Open /bedrock-starter/web/app/themes/sage-starter/assets/manifest.json and set the `devUrl` variable to your vhost
